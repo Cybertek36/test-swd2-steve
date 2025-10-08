@@ -2,3 +2,4 @@
 Test repository for the SWD2 course
 
 Hello Steven of CyberTek Corp!!
+I love working with AI
